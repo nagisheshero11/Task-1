@@ -1,7 +1,6 @@
 {
   "name": "music_platform",
   "private": true,
-  "homepage": "/Task-1/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
